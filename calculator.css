@@ -1,0 +1,16 @@
+.calculator {
+    width: 150px;
+    margin: 50px auto;
+}
+
+.calculator button,
+.calculator input {
+    width: 35px;
+    height: 35px;
+    margin: 2px;
+    display: inline-block;
+}
+
+.calculator input {
+    width: 148px;
+}
